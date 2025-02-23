@@ -17,4 +17,4 @@ Soy un desarrollador de software con casi 10 años de experiencia en **.NET**, *
 - Javascript: Vanilla, jQuery, Vue, NodeJS
 - DB: SQL Server, Oracle, MongoDB, Firebase
 - Source control: Git, SVN
-- CD/CD: Azure, Github Actions, Jenkins
+- CI/CD: Azure, Github Actions, Jenkins

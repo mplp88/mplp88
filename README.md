@@ -12,7 +12,7 @@ I'm a software developer with almost 10 years experience in **.NET**, **Javascri
 ### Spanish
 Soy un desarrollador de software con casi 10 años de experiencia en **.NET**, **Javascript** y **SQL Server**
 
-##Techonologies
+## Techonologies
 - .NET: Framework 4.x, .NET Core, .NET 5+, MVC, WebApi, Razor/Blazor
 - Javascript: Vanilla, jQuery, Vue, NodeJS
 - DB: SQL Server, Oracle, MongoDB, Firebase

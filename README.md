@@ -1,9 +1,10 @@
 ﻿# Martín Alejandro Ponce
+ 
 ## Software Developer
-- Age/Edad: 30
+- Age/Edad: 37
 - Location/Ubicación: Buenos Aires, Argentina
 - [Linkedin](https://www.linkedin.com/in/mplp88/)
-- [Portfolio](https://portfolio.martinponce.com.ar/) (Available only in spanish right now)
+- [Landing and contact page](https://landing.martinponce.com.ar/) (Available only in spanish right now)
 - [Get in touch](https://portfolio.martinponce.com.ar/#/contact) (Available only in spanish right now)
 
 ### English
@@ -18,3 +19,4 @@ Soy un desarrollador de software con casi 10 años de experiencia en **.NET**, *
 - DB: SQL Server, Oracle, MongoDB, Firebase
 - Source control: Git, SVN
 - CI/CD: Azure, Github Actions, Jenkins
+

@@ -4,8 +4,8 @@
 - Age/Edad: 37
 - Location/Ubicación: Buenos Aires, Argentina
 - [Linkedin](https://www.linkedin.com/in/mplp88/)
-- [Landing and contact page](https://landing.martinponce.com.ar/) (Available only in spanish right now)
-- [Get in touch](https://portfolio.martinponce.com.ar/#/contact) (Available only in spanish right now)
+- [Landing and contact page](https://www.martinponce.com.ar/) (Available only in spanish right now)
+- [Get in touch](https://www.martinponce.com.ar/#contact) (Available only in spanish right now)
 
 ### English
 I'm a software developer with 10 years experience in **.NET**, **Javascript** and **SQL Server**

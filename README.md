@@ -3,8 +3,11 @@
 ## Full Stack Software Developer
 
 📍 Buenos Aires, Argentina
+
 🔗 LinkedIn: https://www.linkedin.com/in/mplp88/
+
 🌐 Portfolio: https://www.martinponce.com.ar/
+
 📬 Contact: https://www.martinponce.com.ar/#contact
 
 ---

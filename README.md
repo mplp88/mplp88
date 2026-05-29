@@ -6,9 +6,9 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/mplp88/
 
-🌐 Portfolio: https://www.martinponce.com.ar/
+🌐 Portfolio: [https://portfolio.martinponce.com.ar/](https://portfolio.martinponce.com.ar/)
 
-📬 Contact: https://www.martinponce.com.ar/#contact
+📬 Contact: [https://www.martinponce.com.ar/#contact](https://portfolio.martinponce.com.ar/#/contact)
 
 ---
 

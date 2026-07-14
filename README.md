@@ -8,7 +8,7 @@
 
 🌐 Portfolio: [https://portfolio.martinponce.com.ar/](https://portfolio.martinponce.com.ar/)
 
-📬 Contact: [https://www.martinponce.com.ar/#contact](https://portfolio.martinponce.com.ar/#/contact)
+📬 Contact: [https://portfolio.martinponce.com.ar/#contact](https://portfolio.martinponce.com.ar/#/contact)
 
 ---
 
